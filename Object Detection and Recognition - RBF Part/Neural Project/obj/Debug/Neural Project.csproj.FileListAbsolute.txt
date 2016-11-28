@@ -1,0 +1,14 @@
+E:\College\Neural Network\Practical\Neural Project\Neural Project\bin\Debug\Neural Project.exe.config
+E:\College\Neural Network\Practical\Neural Project\Neural Project\bin\Debug\Neural Project.exe
+E:\College\Neural Network\Practical\Neural Project\Neural Project\bin\Debug\Neural Project.pdb
+E:\College\Neural Network\Practical\Neural Project\Neural Project\bin\Debug\MathNet.Numerics.dll
+E:\College\Neural Network\Practical\Neural Project\Neural Project\bin\Debug\MathNet.Numerics.xml
+E:\College\Neural Network\Practical\Neural Project\Neural Project\obj\Debug\Neural Project.csprojResolveAssemblyReference.cache
+E:\College\Neural Network\Practical\Neural Project\Neural Project\obj\Debug\Neural_Project.Form1.resources
+E:\College\Neural Network\Practical\Neural Project\Neural Project\obj\Debug\Neural_Project.Properties.Resources.resources
+E:\College\Neural Network\Practical\Neural Project\Neural Project\obj\Debug\Neural Project.csproj.GenerateResource.Cache
+E:\College\Neural Network\Practical\Neural Project\Neural Project\obj\Debug\Neural Project.exe
+E:\College\Neural Network\Practical\Neural Project\Neural Project\obj\Debug\Neural Project.pdb
+E:\Computer Science\New folder\Neural Project\Neural Project\bin\Debug\Neural Project.exe.config
+E:\Computer Science\New folder\Neural Project\Neural Project\obj\Debug\Neural Project.exe
+E:\Computer Science\New folder\Neural Project\Neural Project\obj\Debug\Neural Project.pdb
